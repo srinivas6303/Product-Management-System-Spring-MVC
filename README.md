@@ -68,3 +68,7 @@ Here's a brief overview of the classes and interfaces in this project:
 2.  Use the provided forms to perform various product management operations such as adding, viewing, updating, and deleting products.
 
 
+
+https://github.com/user-attachments/assets/e7332246-249e-42dd-965f-5e80fc3778c3
+
+
